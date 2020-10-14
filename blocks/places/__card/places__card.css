@@ -4,5 +4,17 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 67px 72px 88px;
+  padding: 67px 70px 88px;
+}
+
+@media (max-width: 1023px) {
+  .places__card {
+    padding: 67px 35px 88px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places__card {
+    padding: 30px 35px 40px;
+  }
 }

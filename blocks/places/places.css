@@ -4,3 +4,22 @@
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(3, 533px);
 }
+
+@media (max-width: 1023px) {
+  .places {
+    grid-template-rows: repeat(3, 460px);
+  }
+}
+
+@media (max-width: 767px) {
+  .places {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(6, minmax(380px, max-content));
+  }
+}
+
+@media (max-width: 425px) {
+  .places {
+    grid-template-rows: repeat(6, minmax(300px, max-content));
+  }
+}
