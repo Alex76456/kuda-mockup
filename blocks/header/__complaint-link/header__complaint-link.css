@@ -1,0 +1,12 @@
+.header__complaint-link {
+  color: black;
+  text-decoration: none;
+  transition: 0.4s ease;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 17px;
+}
+
+.header__complaint-link:hover {
+  opacity: 0.8;
+}
