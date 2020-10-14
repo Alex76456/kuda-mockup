@@ -1,0 +1,9 @@
+.places__card-paragraph {
+  margin: 0 0 30px;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.places__card-paragraph:last-of-type {
+  margin: 0;
+}
