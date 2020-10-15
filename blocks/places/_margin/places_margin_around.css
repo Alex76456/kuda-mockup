@@ -1,3 +1,5 @@
 .places_margin_around {
   margin: 130px 0;
 }
+
+/* думаю здесь можно обойтись без модификатора. указать padding в places */
