@@ -1,8 +1,0 @@
-.places__card-title {
-  margin: 0;
-  font-size: 34px;
-  line-height: 36px;
-  font-weight: bold;
-}
-
-/* для названий секций думаю можно взять блок title, у них идентичны css свойства. */

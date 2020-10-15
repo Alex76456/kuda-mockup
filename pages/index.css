@@ -11,20 +11,16 @@
 @import url('../blocks/intro/__container/intro__container.css');
 @import url('../blocks/intro/__image/intro__image.css');
 @import url('../blocks/places/places.css');
-@import url('../blocks/places/_margin/places_margin_around.css');
 @import url('../blocks/places/__image/places__image.css');
 @import url('../blocks/places/__card/places__card.css');
-@import url('../blocks/places/__card-title/places__card-title.css');
 @import url('../blocks/places/__card-paragraphs/places__card-paragraphs.css');
 @import url('../blocks/places/__card-paragraph/places__card-paragraph.css');
 @import url('../blocks/places/__card/_position/places__card_positon_left-center.css');
-
 @import url('../blocks/quotes/quotes.css');
 @import url('../blocks/quotes/__items/qoutes__items.css');
 @import url('../blocks/quotes/__author/quotes__author.css');
 @import url('../blocks/quotes/__subtitle/quotes__subtitle.css');
 @import url('../blocks/title/_place/title_place_qoutes.css');
-
 @import url('../blocks/form/form.css');
 @import url('../blocks/form/__items/form__items.css');
 @import url('../blocks/form/__item/form__item.css');
@@ -35,12 +31,10 @@
 @import url('../blocks/form/__button-items/form__button-items.css');
 @import url('../blocks/form/__button-item/form__button-item.css');
 @import url('../blocks/title/_place/title_place_form.css');
-
 @import url('../blocks/video/video.css');
 @import url('../blocks/video/__iframe/video__iframe.css');
 @import url('../blocks/title/_place/title_place_video.css');
 @import url('../blocks/title/_theme/title_theme_dark.css');
-
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__background/footer__background.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
