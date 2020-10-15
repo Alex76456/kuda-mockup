@@ -1,0 +1,4 @@
+.form__items {
+  width: calc(100% - 2 * 70px);
+  margin: 0 auto;
+}

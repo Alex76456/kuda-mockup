@@ -1,0 +1,8 @@
+.footer__background {
+  min-height: 625px;
+  width: 100%;
+  background-color: #FECDA7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
