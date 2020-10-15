@@ -18,18 +18,28 @@
 @import url('../blocks/places/__card-paragraphs/places__card-paragraphs.css');
 @import url('../blocks/places/__card-paragraph/places__card-paragraph.css');
 @import url('../blocks/places/__card/_position/places__card_positon_left-center.css');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-@import url('../blocks');
-* {
-  outline: 1px solid red;
-}
+
+@import url('../blocks/quotes/quotes.css');
+@import url('../blocks/quotes/__items/qoutes__items.css');
+@import url('../blocks/quotes/__author/quotes__author.css');
+@import url('../blocks/quotes/__subtitle/quotes__subtitle.css');
+@import url('../blocks/title/_place/title_place_qoutes.css');
+
+@import url('../blocks/form/form.css');
+@import url('../blocks/form/__items/form__items.css');
+@import url('../blocks/form/__item/form__item.css');
+@import url('../blocks/form/__item/_type/form__item_type_textarea.css');
+@import url('../blocks/form/__image/form__image.css');
+@import url('../blocks/form/__destination-info/form__destination-info.css');
+@import url('../blocks/form/__button-text/form__button-text.css');
+@import url('../blocks/form/__button-items/form__button-items.css');
+@import url('../blocks/form/__button-item/form__button-item.css');
+@import url('../blocks/title/_place/title_place_form.css');
+
+@import url('../blocks/video/video.css');
+@import url('../blocks/video/__iframe/video__iframe.css');
+@import url('../blocks/title/_place/title_place_video.css');
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__background/footer__background.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');

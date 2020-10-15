@@ -1,0 +1,9 @@
+.form__button-item {
+  border: 0;
+  padding: 0;
+  transition: opacity 0.5s linear;
+}
+
+.form__button-item:hover {
+  opacity: 0.8;
+}
