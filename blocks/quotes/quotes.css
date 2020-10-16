@@ -3,3 +3,15 @@
   margin: 0 auto;
   padding-bottom: 125px;
 }
+
+@media (max-width: 1023px) {
+  .quotes {
+    width: calc(100% - 35px * 2);
+  }
+}
+
+@media (max-width: 767px) {
+  .quotes {
+    padding-bottom: 50px;
+  }
+}

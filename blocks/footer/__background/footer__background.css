@@ -6,3 +6,9 @@
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width: 767px) {
+  .footer__background {
+    min-height: 440px;
+  }
+}

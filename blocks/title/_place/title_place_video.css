@@ -3,3 +3,24 @@
   top: 135px;
   left: 70px;
 }
+
+@media (max-width: 1023px) {
+  .title_place_video {
+    top: 100px;
+    left: 35px;
+  }
+}
+
+@media (max-width: 767px) {
+  .title_place_video {
+    top: 40px;
+    padding-right: 35px;
+  }
+}
+
+@media (max-width: 425px) {
+  .title_place_video {
+    top: 20px;
+    padding-right: 35px;
+  }
+}
