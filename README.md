@@ -5,7 +5,7 @@
 
 **Ссылка на проект:**
 
-https://alex76456.github.io/kuda-mockup
+https://alex76456.github.io/kuda-mockup/
 
 
 **Используемые технологии:**
