@@ -3,4 +3,11 @@
   justify-content: flex-end;
   align-items: center;
   padding: 0;
+  max-width: 355px;
+}
+
+@media (max-width: 425px) {
+  .form__button-items {
+    justify-content: center;
+  }
 }

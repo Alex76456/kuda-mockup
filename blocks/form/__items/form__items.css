@@ -2,3 +2,10 @@
   width: calc(100% - 2 * 70px);
   margin: 0 auto;
 }
+
+@media (max-width: 1023px) {
+  .form__items {
+    width: calc(100% - 2 * 35px);
+    max-height: 540px;
+  }
+}

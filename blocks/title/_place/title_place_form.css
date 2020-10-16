@@ -1,3 +1,15 @@
 .title_place_form {
   padding: 135px 0;
 }
+
+@media (max-width: 1023px) {
+  .title_place_form {
+    padding: 85px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .title_place_form {
+    padding: 50px 0;
+  }
+}

@@ -7,3 +7,15 @@
   object-fit: contain;
   display: block;
 }
+
+@media (max-width: 767px) {
+  .video__iframe {
+    min-height: 440px;
+  }
+}
+
+@media (max-width: 425px) {
+  .video__iframe {
+    min-height: 425px;
+  }
+}

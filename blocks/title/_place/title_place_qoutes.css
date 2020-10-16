@@ -1,4 +1,10 @@
 .title_place_qoutes {
-  max-width: 405px;
+  max-width: 410px;
   margin-top: 39px;
+}
+
+@media (max-width: 767px) {
+  .title_place_qoutes {
+    margin-top: 25px;
+  }
 }

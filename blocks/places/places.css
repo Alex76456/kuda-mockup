@@ -16,6 +16,7 @@
   .places {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(6, minmax(380px, max-content));
+    padding-bottom: 50px;
   }
 }
 

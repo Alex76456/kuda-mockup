@@ -4,3 +4,10 @@
   line-height: 36px;
   font-weight: bold;
 }
+
+@media (max-width: 767px) {
+  .title {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
